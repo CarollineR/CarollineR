@@ -5,14 +5,17 @@
 ❤️ Iniciante apaixonada por programação
 
 ✨ Sobre mim
+<br></br>
 🎂 Tenho 30 anos e estou embarcando na jornada da tecnologia
 📚 Aprendo e me desafio todos os dias
 
 🎯 Objetivos
+<br></br>
 📒 Evoluir em front-end e back-end
 💡 Transformar ideias em código e crescer profissionalmente
 
 ⚡ Fun facts
+<br></br>
 ☕ Café é meu aliado na programação
 🎶 Rock'n roll aumenta minha produtividade
 😅 Já passei horas presa em um erro de vírgula
