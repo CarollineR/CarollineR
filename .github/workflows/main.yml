@@ -1,18 +1,18 @@
 name: Generate Snake
+name: Generate Snake
 
-# Executa diariamente às 03:00 UTC ou manualmente
 on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+  workflow_dispatch:  # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Faz checkout do repositório
+      # 1️⃣ Faz checkout da branch snake
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: snake
 
       # 2️⃣ Gera o snake
       - name: Generate Snake
@@ -23,11 +23,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3️⃣ Push para a branch "output"
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output       # branch de destino
-          build_dir: dist             # diretório onde a snake é gerada
+      # 3️⃣ Commit e push para a branch snake
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Update GitHub contribution snake" || echo "Nothing to commit"
+          git push origin snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
