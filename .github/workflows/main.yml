@@ -1,25 +1,33 @@
 name: Generate Snake
 
+# Executa diariamente às 03:00 UTC ou manualmente
 on:
   schedule:
-    - cron: "0 3 * * *"  # roda todo dia às 03:00 UTC
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      # 1️⃣ Faz checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Gera o snake
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: CarollineR
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to the output branch
+      # 3️⃣ Push para a branch "output"
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output       # branch de destino
+          build_dir: dist             # diretório onde a snake é gerada
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
