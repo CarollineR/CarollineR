@@ -3,30 +3,23 @@
 🚀 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas
 🐍 Estudante de Desenvolvimento Full Stack Python
 ❤️ Iniciante apaixonada por programação
-
 <br></br>
-
 ✨ Sobre mim
 
 🎂 Tenho 30 anos e estou embarcando na jornada da tecnologia
 📚 Aprendo e me desafio todos os dias
-
 <br></br>
-
 🎯 Objetivos
 
 📒 Evoluir em front-end e back-end
 💡 Transformar ideias em código e crescer profissionalmente
-
 <br></br>
-
 ⚡ Fun facts
 
 ☕ Café é meu aliado na programação
 🎶 Rock'n roll aumenta minha produtividade
 😅 Já passei horas presa em um erro de vírgula
 
-<br></br>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif" width="200"/>
