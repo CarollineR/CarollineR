@@ -1,19 +1,19 @@
 👩‍💻 Olá, Devs! Sou Carolline!
 
-🚀 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas
-🐍 Estudante de Desenvolvimento Full Stack Python
-❤️ Iniciante apaixonada por programação
-<br></br>
+🚀 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas </br>
+🐍 Estudante de Desenvolvimento Full Stack Python </br>
+❤️ Iniciante apaixonada por programação </br>
+</br>
 ✨ Sobre mim
 
 🎂 Tenho 30 anos e estou embarcando na jornada da tecnologia
 📚 Aprendo e me desafio todos os dias
-<br></br>
+</br>
 🎯 Objetivos
 
 📒 Evoluir em front-end e back-end
 💡 Transformar ideias em código e crescer profissionalmente
-<br></br>
+</br>
 ⚡ Fun facts
 
 ☕ Café é meu aliado na programação
