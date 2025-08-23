@@ -6,19 +6,19 @@
 </br>
 ✨ Sobre mim
 
-🎂 Tenho 30 anos e estou embarcando na jornada da tecnologia
-📚 Aprendo e me desafio todos os dias
+🎂 Tenho 30 anos e estou embarcando na jornada da tecnologia </br>
+📚 Aprendo e me desafio todos os dias </br>
 </br>
 🎯 Objetivos
 
-📒 Evoluir em front-end e back-end
-💡 Transformar ideias em código e crescer profissionalmente
+📒 Evoluir em front-end e back-end </br>
+💡 Transformar ideias em código e crescer profissionalmente </br>
 </br>
 ⚡ Fun facts
 
-☕ Café é meu aliado na programação
-🎶 Rock'n roll aumenta minha produtividade
-😅 Já passei horas presa em um erro de vírgula
+☕ Café é meu aliado na programação </br>
+🎶 Rock'n roll aumenta minha produtividade </br>
+😅 Já passei horas presa em um erro de vírgula </br>
 
 
 <p align="center">
