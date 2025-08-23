@@ -1,16 +1,44 @@
-## Hi there 👋
+👩‍💻 Olá, Devs! Sou Carolline!
 
-<!--
-**CarollineR/CarollineR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas.
+🐍 Estudante de Desenvolvimento Full Stack Python.
+❤️ Iniciante na programação. Cada dia mais apaixonada pela área!
 
-Here are some ideas to get you started:
+✨ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎂 Tenho 30 anos e decidi embarcar nessa jornada incrível na tecnologia.
+📚 Estou aprendendo e me desafiando todos os dias.
+
+🎯 Objetivos
+
+📒 Continuar evoluindo nas tecnologias front-end e back-end.
+💡 Transformar ideias em código e crescer profissionalmente.
+
+⚡ Fun facts
+
+☕ O café já faz parte oficial do meu kit de sobrevivência de dev.
+🎶 Programar com um bom rock'n roll = produtividade lá em cima.
+😅 Já me perdi em um erro de vírgula por horas (quem nunca?).
+
+<img src="feffddhttps://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif"></img>
+
+Tecnologias e Ferramentas em aprendizado
+
+<i class="devicon-html5-plain-wordmark colored" widht="40" height="40"></i> <i class="devicon-css3-plain-wordmark colored" widht="40" height="40"></i> <i class="devicon-javascript-plain colored" widht="40" height="40"></i> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" widht="40" height="40" />
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+  <a href= "mailto:carollineramosc@gmail.com></a> loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolline-ramos-7b804620a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+<div>
+<a href="https://github.com/CarollineR">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/CarollineR/sCarollineR/blob/output/github-contribution-grid-snake.svg)
+
+
+
