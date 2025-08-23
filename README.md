@@ -1,26 +1,25 @@
 👩‍💻 Olá, Devs! Sou Carolline!
 
-🚀 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas.
-🐍 Estudante de Desenvolvimento Full Stack Python.
-❤️ Iniciante na programação.
+🚀 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas
+🐍 Estudante de Desenvolvimento Full Stack Python
+❤️ Iniciante apaixonada por programação
 
 ✨ Sobre mim
-
-🎂 Tenho 30 anos e decidi embarcar nessa jornada incrível na tecnologia.
-📚 Estou aprendendo e me desafiando todos os dias.
+🎂 Tenho 30 anos e estou embarcando na jornada da tecnologia
+📚 Aprendo e me desafio todos os dias
 
 🎯 Objetivos
-
-📒 Continuar evoluindo nas tecnologias front-end e back-end.
-💡 Transformar ideias em código e crescer profissionalmente.
+📒 Evoluir em front-end e back-end
+💡 Transformar ideias em código e crescer profissionalmente
 
 ⚡ Fun facts
+☕ Café é meu aliado na programação
+🎶 Rock'n roll aumenta minha produtividade
+😅 Já passei horas presa em um erro de vírgula
 
-☕ O café já faz parte oficial do meu kit de sobrevivência de dev.
-🎶 Programar com um bom rock'n roll = produtividade lá em cima.
-😅 Já me perdi em um erro de vírgula por horas (quem nunca?).
-
-<img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif"></img>
+<p align="center">
+  <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif" width="200"/>
+</p>
 
 ## Tecnologias e Ferramentas em aprendizado: ##
 
