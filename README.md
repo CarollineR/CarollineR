@@ -2,7 +2,7 @@
 
 🚀 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas.
 🐍 Estudante de Desenvolvimento Full Stack Python.
-❤️ Iniciante na programação. Cada dia mais apaixonada pela área!
+❤️ Iniciante na programação.
 
 ✨ Sobre mim
 
@@ -22,10 +22,11 @@
 
 <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif"></img>
 
-Tecnologias e Ferramentas em aprendizado
+## Tecnologias e Ferramentas em aprendizado: ##
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
+## 🌐 Conecte-se comigo:##
 <div>
   <a href="mailto:carollineramosc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
