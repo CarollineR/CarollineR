@@ -18,7 +18,6 @@
 
 ☕ Café é meu aliado na programação </br>
 🎶 Rock'n roll aumenta minha produtividade </br>
-😅 Já passei horas presa em um erro de vírgula </br>
 
 
 <p align="center">
