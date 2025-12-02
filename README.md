@@ -37,7 +37,7 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 
 ## 🌐 Conecte-se comigo:
 
-<div align= "center">
+<div>
 <div>
   <a href="mailto:carollineramosc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
