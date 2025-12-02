@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Roda a cada 12 horas (pode ajustar)
     - cron: "0 */12 * * *" 
   workflow_dispatch:
 
@@ -10,23 +9,26 @@ jobs:
   generate_snake:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permite que a ação escreva no repositório (salve o SVG/GIF)
-      id-token: write
+      contents: write # Necessário para criar/escrever na branch 'output'
+      id-token: write # Necessário para autenticação do deploy
       
     steps:
       - uses: actions/checkout@v3
         with:
-          ref: main # 
+          # Puxa o histórico completo (essencial para o Snake)
+          ref: main 
+          fetch-depth: 0 
+          
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: CarollineR 
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: CarollineR
+          outputs: dist/github-contribution-grid-snake.svg
         
-      - uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v3 # Ação de deploy mais estável
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # O nome do branch que receberá os arquivos
           publish_branch: output
+          # O diretório que contém o SVG gerado
           publish_dir: dist
