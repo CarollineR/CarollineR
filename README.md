@@ -60,9 +60,7 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 </p>
 
 
+![Snake animation](https://raw.githubusercontent.com/CarollineR/CarollineR/output/snake.svg)
 
-
-
-![Snake animation](https://raw.githubusercontent.com/CarollineR/CarollineR/main/output/github-contribution-grid-snake.svg)
 
 
