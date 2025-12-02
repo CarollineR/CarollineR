@@ -40,8 +40,14 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 </div>
 
  # 📊 Minhas Estatísticas:
+<p align="center">
+  <a href="https://github.com/CarollineR">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
 
-https://github-readme-stats.zcy.dev/api?username=CarollineR
+
 
 ![Snake animation](https://raw.githubusercontent.com/CarollineR/CarollineR/main/output/github-contribution-grid-snake.svg)
 
