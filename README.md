@@ -45,14 +45,14 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
   <!-- Estatísticas gerais -->
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
 
   <!-- Linguagens mais usadas -->
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"
     alt="Top Languages"
   />
 </p>
