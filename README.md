@@ -52,7 +52,7 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 
 ## 📊 Minhas Estatísticas:
 
-(https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=radical)
+![Carolline's GitHub stats](https://readme-3uf1w229t-carolline-ramos-projects.vercel.app/api?username=CarollineR&show_icons=true&theme=radical)
 
 
 ## 🐍 Contribuições
