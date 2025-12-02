@@ -37,18 +37,13 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 
 ## 🌐 Conecte-se comigo:
 
-<p align="center">
-    <a href="https://github.com/CarollineR">
-        <img src="https://github-readme-stats-one-beta.vercel.app/api?username=CarollineR&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
-    </a>
-    
-    <a href="https://github.com/CarollineR">
-        <img src="https://github-readme-stats-one-beta.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas"/>
-    </a>
-</p>
-
-<br>
-
+<div align= "center">
+<div>
+  <a href="mailto:carollineramosc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/carolline-ramos-7b804620a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+  
 ---
 
 ## 📊 Minhas Estatísticas:
