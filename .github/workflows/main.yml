@@ -14,10 +14,12 @@ jobs:
       
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: main # 
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: CarollineR # SEU NOME DE USUÁRIO
+          github_user_name: CarollineR 
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
