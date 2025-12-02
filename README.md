@@ -5,7 +5,7 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 
 💖 Sou iniciante, mas apaixonada por programação — aquela paixão que faz a gente querer aprender “só mais um pouquinho” todos os dias. </br>
 
-# Fun facts
+### Fun facts
 
 ☕ Café é meu copiloto oficial durante o código;
 
@@ -40,12 +40,14 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 </div>
 
  # 📊 Minhas Estatísticas:
+ 
 <p align="center">
   <a href="https://github.com/CarollineR">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
+
 
 
 
