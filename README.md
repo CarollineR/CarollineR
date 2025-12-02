@@ -59,6 +59,12 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 
 ## 🐍 Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/CarollineR/CarollineR/output/snake.svg)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CarollineR/CarollineR/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CarollineR/CarollineR/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/CarollineR/CarollineR/raw/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
 
 
