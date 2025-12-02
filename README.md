@@ -33,33 +33,36 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 <br></br>
 
 ## 🌐 Conecte-se comigo: ##
-<div>
+<div align= "center">
   <a href="mailto:carollineramosc@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/carolline-ramos-7b804620a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
  # ---
 
  # 📊 Minhas Estatísticas:
 
-<br></br>
-
 <div align="center">
-  <a href="https://github.com/CarollineR" target="_blank" rel="noopener noreferrer">
-    <img 
+
+  <a href="https://github.com/CarollineR" rel="noopener noreferrer">
+    <img
       loading="lazy"
-      height="180px"
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"
-      alt="Top Languages"
+      alt="Top Languages - CarollineR"
     />
   </a>
 
-  <img 
-    loading="lazy"
-    height="180px"
-    src="https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
+  <a href="https://github.com/CarollineR" rel="noopener noreferrer">
+    <img
+      loading="lazy"
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      alt="GitHub Stats - CarollineR"
+    />
+  </a>
+
 </div>
 
 
