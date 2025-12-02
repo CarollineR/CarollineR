@@ -41,7 +41,26 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 
  # 📊 Minhas Estatísticas:
 
-https://github-readme-stats-git-masterorg-main-projects.vercel.app/api?username=CarollineR
+<div align="center">
+
+  <a href="https://github.com/CarollineR">
+    <img 
+      height="180"
+      src="https://github-readme-stats-git-masterorg-main-projects.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"
+      alt="Top Languages - CarollineR"
+    />
+  </a>
+
+  <a href="https://github.com/CarollineR">
+    <img 
+      height="180"
+      src="https://github-readme-stats-git-masterorg-main-projects.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      alt="GitHub Stats - CarollineR"
+    />
+  </a>
+
+</div>
+
 
 
 
