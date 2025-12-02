@@ -1,4 +1,4 @@
-## Olá, Devs! Sou Carolline Ramos! 👩‍💻
+# Olá, Devs! Sou Carolline Ramos! 👩‍💻
 
 Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá </br> com especialização, em andamento, em desenvolvimento Full Stack com foco em Python. </br>
 Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, erro, ajusto e celebro cada conquista no processo.
@@ -39,7 +39,9 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
   <a href="https://www.linkedin.com/in/carolline-ramos-7b804620a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
- # 📊 Minhas Estatísticas:
+<br></br>
+
+ ## 📊 Minhas Estatísticas:
  
 <p align="center">
   <!-- Estatísticas gerais -->
