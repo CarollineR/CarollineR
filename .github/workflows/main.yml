@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Permite que a ação escreva no repositório (salve o SVG/GIF)
+      id-token: write
       
     steps:
       - uses: actions/checkout@v3
