@@ -49,12 +49,11 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 ## 📊 Minhas Estatísticas:
 
 <p align="center">
-    <a href="[https://github.com/CarollineR](https://github.com/CarollineR)">
-        <img height="180em" src="[https://carolline-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula](https://carolline-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula)"/>
+    <a href="https://github.com/CarollineR">
+        <img height="180em" src="https://carolline-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=dracula"/>
     </a>
-    
-    <a href="[https://github.com/CarollineR](https://github.com/CarollineR)">
-        <img height="180em" src="[https://carolline-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula](https://carolline-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula)"/>
+    <a href="https://github.com/CarollineR">
+        <img height="180em" src="https://carolline-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </p>
 
