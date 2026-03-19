@@ -1,7 +1,7 @@
 # Olá, Devs! Sou Carolline Ramos! 👩‍💻
 
-Acadêmica do 3º período de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá,  
-com especialização em andamento em Desenvolvimento Full Stack com foco em Python.  
+Acadêmica do 4º período de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá,  
+com especialização em andamento em Desenvolvimento Bak-end com foco em Python.  
 Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, erro, ajusto e celebro cada conquista nesse processo.
 
 💖 Sou iniciante, mas apaixonada por programação — aquela paixão que faz a gente querer aprender “só mais um pouquinho” todos os dias.
