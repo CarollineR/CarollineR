@@ -59,15 +59,12 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🔥 Contribuições
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarollineR&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=CarollineR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarollineR&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://komarev.com/ghpvc/?username=CarollineR&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
 
