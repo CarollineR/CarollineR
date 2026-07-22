@@ -1,14 +1,15 @@
-# Olá, Devs! Sou Carolline Ramos! 👩‍💻
+# Olá, Devs! Sou Carolline Ramos! 
 
-Acadêmica do 4º período de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá,  
-com especialização em andamento em Desenvolvimento Bak-end com foco em Python.  
-Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, erro, ajusto e celebro cada conquista nesse processo.
+Estudante de Análise e Desenvolvimento de Sistemas 👩‍💻
 
-💖 Sou iniciante, mas apaixonada por programação!
+Estou construindo minha carreira na tecnologia por meio de projetos práticos, estudos contínuos e muita curiosidade. Atualmente, concentro meus estudos em desenvolvimento back-end e dados. 
+
+Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cada vez.
+
 ### Fun facts
 
 ☕ Café é meu copiloto oficial durante o código;  
-🎶 Um bom Rock'n Roll sempre aumenta minha produtividade.
+🎸 Rock'n Roll é a trilha sonora das minhas sessões de código.
 
 <p align="center">
   <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif" width="200"/>
@@ -16,21 +17,51 @@ Tenho 30 anos e estou mergulhando de cabeça na área de tecnologia. Aprendo, er
 
 ---
 
-## Tecnologias e Ferramentas em aprendizado:
+## 🛠️ Tecnologias e Ferramentas
 
-<div>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img style="margin: 5px;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+### 🐍 Principal
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="45" alt="Python" />
 </div>
 
-<br>
+### 💻 Linguagens
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS3" />
+</div>
+
+### 🌐 Desenvolvimento Web
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="45" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="38" alt="Sass" />
+</div>
+
+### 🗄️ Banco de Dados
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="45" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL" />
+</div>
+
+### 🔧 Versionamento
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="38" alt="GitHub" />
+</div>
+
+### 🎨 Design e Produtividade
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="38" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" height="45" alt="Trello" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="45" alt="Jira" />
+</div>
 
 ---
 
