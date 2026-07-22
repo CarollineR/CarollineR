@@ -15,17 +15,19 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
   <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif" width="200"/>
 </p>
 
----
-## Conecte-se comigo:
 
-<div>
-<div>
+## Conecte-se comigo
+
+<div align="left">
   <a href="mailto:carollineramosc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/carolline-ramos-7b804620a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/carolline-ramos-7b804620a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
   
-  ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -55,7 +57,6 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
 
   
 
