@@ -29,7 +29,7 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 </div>
   
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 **🐍 Principal**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,13 +58,22 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🔥 Contribuições
+## Minhas Estatísticas no GitHub
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarollineR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarollineR&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CarollineR&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarollineR&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarollineR&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarollineR&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 
