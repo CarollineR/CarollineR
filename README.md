@@ -1,6 +1,6 @@
 # Olá, Devs! Eu sou Carolline Ramos! 
 
-## Estudante de Análise e Desenvolvimento de Sistemas 👩‍💻
+### Estudante de Análise e Desenvolvimento de Sistemas 👩‍💻
 
 Estou construindo minha carreira na tecnologia por meio de projetos práticos, estudos contínuos e muita curiosidade. Atualmente, concentro meus estudos em desenvolvimento back-end e dados.
 
