@@ -1,8 +1,7 @@
 # Olá, Devs! Eu sou Carolline Ramos! 
 
 Estudante de Análise e Desenvolvimento de Sistemas 👩‍💻
-
-Estou construindo minha carreira na tecnologia por meio de projetos práticos, estudos contínuos e muita curiosidade. Atualmente, concentro meus estudos em desenvolvimento back-end e dados. 
+Estou construindo minha carreira na tecnologia por meio de projetos práticos, estudos contínuos e muita curiosidade. Atualmente, concentro meus estudos em desenvolvimento back-end e dados.
 
 Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cada vez.
 
@@ -15,6 +14,7 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
   <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif" width="200"/>
 </p>
 
+---
 
 ## Conecte-se comigo
 
@@ -27,7 +27,8 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-  
+
+---
 
 ## Tecnologias e Ferramentas
 
@@ -58,6 +59,8 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
+
 ## Minhas Estatísticas no GitHub
 
 <p align="center">
@@ -75,9 +78,6 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CarollineR&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
-
-
-
   
 
 
