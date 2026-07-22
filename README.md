@@ -86,7 +86,7 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarollineR&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarollineR&bg_color=1B1B1B&title_color=D6C3A5&text_color=FFFFFF&icon_color=D6C3A5" />
 </p>
 
 <p align="center">
