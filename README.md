@@ -82,7 +82,7 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarollineR&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=CarollineR&theme=dark&hide_border=true&ring=D6C3A5&fire=D6C3A5&currStreakLabel=D6C3A5" />
 </p>
 
 <p align="center">
@@ -90,8 +90,9 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CarollineR&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CarollineR&style=for-the-badge&color=D6C3A5" alt="Profile Views" />
 </p>
+
   
 
 
