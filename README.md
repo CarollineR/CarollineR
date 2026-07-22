@@ -19,7 +19,9 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
   <img src="https://capsule-render.vercel.app/api?type=rect&color=D6C3A5&height=4&section=header" width="100%" />
 </div>
 
-<h2>Conecte-se comigo</h2>
+<div>
+  <h3 style="border:none;">Conecte-se comigo</h3>
+</div>
 
 <div align="left">
   <a href="mailto:carollineramosc@gmail.com">
@@ -35,7 +37,9 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
   <img src="https://capsule-render.vercel.app/api?type=rect&color=D6C3A5&height=4&section=header" width="100%" />
 </div>
 
-<h2>Tecnologias e Ferramentas</h2>
+<div>
+  <h3 style="border:none;">Tecnologias e Ferramentas</h3>
+</div>
 
 **🐍 Principal**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +72,9 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
   <img src="https://capsule-render.vercel.app/api?type=rect&color=D6C3A5&height=4&section=header" width="100%" />
 </div>
 
-<h2>Minhas Estatísticas no GitHub</h2>
+<div>
+  <h3 style="border:none;">Minhas Estatísticas no Github</h3>
+</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarollineR&theme=tokyonight" />
