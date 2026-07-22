@@ -2,7 +2,8 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas 👩‍💻
 
-Construindo minha carreira na tecnologia por meio de projetos práticos, estudos contínuos e muita curiosidade. Atualmente, concentro meus estudos em desenvolvimento back-end e dados.
+Construindo minha carreira na tecnologia por meio de projetos práticos, estudos contínuos e muita curiosidade. 
+Atualmente, concentro meus estudos em desenvolvimento back-end e dados.
 
 Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cada vez.
 
