@@ -15,7 +15,9 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
   <img src="https://media1.tenor.com/m/0lBYh0s2vGoAAAAd/cat-busy.gif" width="200"/>
 </p>
 
-<hr style="height:3px;border:none;background:linear-gradient(90deg,#D6C3A5,#8C7A5B);">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6C3A5&height=3&section=header" width="100%" />
+</p>
 
 ## Conecte-se comigo
 
@@ -29,7 +31,9 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
   </a>
 </div>
 
-<hr style="height:3px;border:none;background:linear-gradient(90deg,#D6C3A5,#8C7A5B);">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6C3A5&height=3&section=header" width="100%" />
+</p>
 
 ## Tecnologias e Ferramentas
 
@@ -60,7 +64,9 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<hr style="height:3px;border:none;background:linear-gradient(90deg,#D6C3A5,#8C7A5B);">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6C3A5&height=3&section=header" width="100%" />
+</p>
 
 ## Minhas Estatísticas no GitHub
 
