@@ -58,17 +58,16 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarollineR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarollineR&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🔥 Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CarollineR&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarollineR&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 
