@@ -61,10 +61,6 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 ## Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarollineR&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarollineR&theme=tokyonight" />
 </p>
 
@@ -74,6 +70,10 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CarollineR&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarollineR&theme=tokyonight" />
 </p>
 
 
