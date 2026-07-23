@@ -9,7 +9,7 @@ Aprendendo ✦ Desenvolvendo soluções com código e dados ✦ Um commit de cad
 
 ### Fun facts
 
-☕ Café é meu copiloto oficial durante o código;  
+☕ Café é meu copiloto oficial durante os estudos;  
 🎸 Rock'n Roll é a trilha sonora das minhas sessões de código.
 
 <p align="center">
